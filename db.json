@@ -33,7 +33,7 @@
 {
 "card": {
 "card": {
-"@type": "ItemCategory",
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
 "itemCards": [
 {
 "card": {
@@ -110,7 +110,7 @@
 {
 "card": {
 "card": {
-"@type": "ItemCategory",
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
 "itemCards": [
 {
 "card": {
@@ -187,7 +187,7 @@
 {
 "card": {
 "card": {
-"@type": "ItemCategory",
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
 "itemCards": [
 {
 "card": {
@@ -264,7 +264,7 @@
 {
 "card": {
 "card": {
-"@type": "ItemCategory",
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
 "itemCards": [
 {
 "card": {
@@ -341,7 +341,7 @@
 {
 "card": {
 "card": {
-"@type": "ItemCategory",
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
 "itemCards": [
 {
 "card": {
